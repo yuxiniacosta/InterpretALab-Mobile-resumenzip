@@ -1,0 +1,11 @@
+NOTAS_PARA_COMPARTIR.txt
+
+Indicaciones para compartir el ZIP y continuar en otro chat:
+- Opción recomendada: subir el ZIP al repositorio de GitHub y compartir el enlace en el nuevo chat.
+- Opción sencilla: subir el ZIP a Google Drive/OneDrive y compartir el link.
+- Alternativa local: guardar en C:\Users\<tu_usuario>\Documents\InterpretALab_backup\InterpretALab_chat_summary.zip y anotar la ruta.
+
+En el nuevo chat proporciona:
+1) El enlace al ZIP (o confirmación de que lo colocaste en la ruta local).
+2) La versión de Android Studio que usarás y si tienes conexión a Internet estable.
+3) Indica si quieres que compile el APK por ti (yo puedo guiar o generar recursos que tú subas).
